@@ -18,8 +18,8 @@ Demo: http://kuaibianbao.com/
 
 ## DTATG: Title Generation on Dependency Trees
 
-* Extracts a small number of central sentences that convey the main meanings of the text and are in a suitable structure for conversion into a title. 
-* Constructs a dependency tree for each of these sentences and removes certain branches using a Dependency Tree Compression Model we devise.
+* Extract a small number of central sentences that convey the main meanings of the text and are in a suitable structure for conversion into a title. 
+* Construct a dependency tree for each of these sentences and removes certain branches using a Dependency Tree Compression Model we devise.
 
 Demo: http://119.29.118.23/title_generator/index.html
 
