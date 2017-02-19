@@ -1,7 +1,7 @@
 # Automatic-Text-Summarization-and-Title-Generation
 Txsmart provides service to generate summaries and titles from both English and Chinese articles. We use advanced deep learning, machine learning and natural language processing techniques to extract summaries and titles.
 
-## Text Summarization on Chinese:
+## Text Summarization on Chinese
 
 We use submodular functions for document summarization tasks. These functions each combine two terms, one which encourages the summary to be representative of the corpus, and the other which positively rewards diversity.
 
@@ -9,7 +9,7 @@ We use submodular functions for document summarization tasks. These functions ea
 
 Demo: http://kuaibianbao.com/
 
-## Text Summarization on English:
+## Text Summarization on English
 
 * TextRank and RAKE methods to select sentences with high weights. 
 * TextTiling and LDA methods to disperse sentences.
