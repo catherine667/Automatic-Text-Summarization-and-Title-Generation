@@ -14,7 +14,7 @@ Demo: http://kuaibianbao.com/
 * TextRank and RAKE methods to select sentences with high weights. 
 * TextTiling and LDA methods to disperse sentences.
 * Dependency tree compression rules to do sentence compression.
-* Novel similarith based Word2Vec method to evaluate the summaries.
+* Novel similarity based Word2Vec method to evaluate the summaries.
 
 ## DTATG: Title Generation on Dependency Trees
 
