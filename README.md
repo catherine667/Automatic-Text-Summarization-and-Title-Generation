@@ -9,8 +9,22 @@ We use submodular functions for document summarization tasks. These functions ea
 
 Demo: http://kuaibianbao.com/
 
-Text Summarization on English:
+## Text Summarization on English:
 
-We use TextRank and RAKE methods to select sentences with high weights. 
+* TextRank and RAKE methods to select sentences with high weights. 
+* TextTiling and LDA methods to disperse sentences.
+* Dependency tree compression rules to do sentence compression
+* Novel similarith based Word2Vec method to evaluate the summaries
+
+## DTATG: Title Generation on Dependency Trees
+
+* Extracts a small number of central sentences that convey the main meanings of the text and are in a suitable structure for conversion into a title. 
+* Constructs a dependency tree for each of these sentences and removes certain branches using a Dependency Tree Compression Model we devise.
+
+Demo: http://119.29.118.23/title_generator/index.html
+
+
+
+
 
 
